@@ -24,4 +24,4 @@ run node index.js and answer the questions related to the project.
 - Github Profile: https://github.com/GarciaE89
 - Email: garcia.emmanuel.eg@gmail.com
 ---
-![Demo GIF]("https://drive.google.com/file/d/1eBX3fvldz7dcxGQuzvdmgfrcULsG2ZZl/preview" width="640" height="480")
+[Demo GIF](https://github.com/GarciaE89/Reading-is-fundamental/blob/master/Assets/walkthrough.gif)
