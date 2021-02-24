@@ -1,4 +1,4 @@
-# Project X 
+# Reading is Fundamental 
 --- 
 ## Table of Contents
 * [Description](#description)
@@ -9,17 +9,19 @@
 * [Testing](#testing)
 * [Questions](#questions)
 ## Description
-TEsting
+This project was designed to familiarize myself with making a ReadMe file via the command-line. The command line will ask a serious of questions about the product, then output a ReadMe. I will also include a quick GIF file for review. 
 ## License
 [full license](opensource.org/license/MIT).
 ## installation
-install
+node index.js
 ## Use 
-testing to see if it works
+node index.js
 ## Contributions
-none at the moment
+
 ## Testing
-none
+run node index.js and answer the questions related to the project.
 ## Questions 
 - Github Profile: https://github.com/GarciaE89
-- Email: emmanuel_801@hotmail.com
+- Email: garcia.emmanuel.eg@gmail.com
+---
+![Demo GIF](./app/assets/walkthrough.gif)
